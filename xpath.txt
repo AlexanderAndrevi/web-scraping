@@ -1,0 +1,4 @@
+Links = '//h3[@class="title"]/a/text()'
+Titulo = '//h1[@class="article-title "]/text()'
+Resumen = '//p[@class="article-epigraph "]/text()'
+Cuerpo = '//p[@class="paragraph "]/text()'
